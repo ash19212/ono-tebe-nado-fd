@@ -1,1 +1,1 @@
-git@github.com:ash19212/ono-tebe-nado.git
+https://github.com/ash19212/ono-tebe-nado-fd
