@@ -197,6 +197,9 @@
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
 }
+.about_column{
+  margin-right: 24px;
+}
 .about {
   margin: 0px 24px 180px;
   display: grid;
